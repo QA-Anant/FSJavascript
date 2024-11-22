@@ -22,4 +22,3 @@ animals.push('cat')
 animals.push('goat')
 
 console.log(animals)
-
