@@ -53,8 +53,3 @@ const values = [1,2,3,4,5]
 const result = values.reduce((val)=>  val+=val )
 
 console.log(result)
-
-
-
-// Reduce Method
-// 
