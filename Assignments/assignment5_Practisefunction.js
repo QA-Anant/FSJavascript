@@ -1,7 +1,5 @@
 // Ecommerce checkout example
 
-// Step 1 : search an item
-
 function searchitem(itemName)
 {
    // console.log(`User is searching for item : ${itemName}`)
