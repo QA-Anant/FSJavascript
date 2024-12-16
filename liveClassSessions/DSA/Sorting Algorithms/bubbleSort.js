@@ -1,6 +1,8 @@
 // Bubble Sort
 
+// swap with the adjacent value in each iteration
 // biggest value placed on the top
+// implemented using 2 loops
 
 const arr = [100,12,92,10,24,56,34]
 

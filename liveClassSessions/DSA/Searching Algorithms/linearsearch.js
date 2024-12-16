@@ -1,4 +1,5 @@
 // Linear Search algorithm
+// works on unsorted array
 
 const value = 77
 const arr= [1,2,3,4,77,8,9,99]

@@ -1,4 +1,5 @@
 // Binary Search
+// Works on a sorted array
 
 const itemtoSearch = 100
 const arr = [25,34,45,56,67,99,100]
