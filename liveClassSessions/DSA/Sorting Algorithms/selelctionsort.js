@@ -23,6 +23,7 @@ function sortBySelectionSort(arr){
             arr[i] = temp
         }
 
+        console.log(arr)
     }
     return arr
 }
